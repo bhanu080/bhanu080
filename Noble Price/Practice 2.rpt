@@ -1,0 +1,15 @@
+﻿Year        Subject                        Winner
+----------- ------------------------------ ------------------------------
+1970        Physics                        Hannes Alfven
+1970        Physics                        Louis Neel
+1970        Chemistry                      Luis Federico Leloir
+1970        Physiology                     Ulf von Euler
+1970        Physiology                     Benerd Katz
+1970        Literature                     Aleksandr Solzhenitsyn
+1970        Economics                      Paul Samuelson
+1970        Physiology                     Julius Axelrod
+
+(8 rows affected)
+
+
+Completion time: 2022-09-06T17:08:35.2696984+05:30

@@ -1,0 +1,19 @@
+﻿Year        Subject                        Winner                         Country                        Category
+----------- ------------------------------ ------------------------------ ------------------------------ ------------------------------
+1994        Literature                     Kenzaburo Oe                   Japan                          Linguist
+1994        Economics                      Reinhaed Selten                Germany                        Economist
+1987        Chemistry                      Donald J.Cram                  USA                            Scientist
+1987        Chemistry                      Jean-Marie Lehn                France                         Scientist
+1987        Literature                     Joseph Brodsky                 Russia                         Linguist
+1987        Economics                      Robert Solow                   USA                            Economist
+1971        Chemistry                      Gerhard Herzberg               Germany                        Scientist
+1971        Literature                     Pablo Neruda                   Chile                          Linguist
+1971        Economics                      Simon Kuznets                  Russia                         Economist
+1970        Literature                     Aleksandr Solzhenitsyn         Russia                         Linguist
+1970        Chemistry                      Luis Federico Leloir           France                         Scientist
+1970        Economics                      Paul Samuelson                 USA                            Economist
+
+(12 rows affected)
+
+
+Completion time: 2022-09-06T17:21:10.7230540+05:30

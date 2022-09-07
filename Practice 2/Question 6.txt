@@ -1,0 +1,11 @@
+﻿sale_id     Name                 City                 Commission
+----------- -------------------- -------------------- ----------------------
+5005        Pit Alex             London               0.11
+5006        MC Lyon              Paris                0.14
+5003        Lauson Hen                                0.12
+5007        Paul Adam            Rome                 0.13
+
+(4 rows affected)
+
+
+Completion time: 2022-09-07T19:02:30.0763886+05:30

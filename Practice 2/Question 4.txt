@@ -1,0 +1,9 @@
+﻿sale_id     name
+----------- --------------------
+5001        James Hoog
+5002        Nail Knite
+
+(2 rows affected)
+
+
+Completion time: 2022-09-07T18:57:33.3025492+05:30

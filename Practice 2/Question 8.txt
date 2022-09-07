@@ -1,0 +1,11 @@
+﻿sale_id     Name                 City                 Commission
+----------- -------------------- -------------------- ----------------------
+5001        James Hoog           New York             0.15
+5002        Nail Knite           Paris                0.13
+5005        Pit Alex             London               0.11
+5006        MC Lyon              Paris                0.14
+
+(4 rows affected)
+
+
+Completion time: 2022-09-07T19:06:10.8351403+05:30

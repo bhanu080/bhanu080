@@ -1,0 +1,302 @@
+﻿productname                                        ListPrice             ProductSubCategory                                 ProductCategory                                    CategoryPriceRank    CategoryPriceRankWithRank
+-------------------------------------------------- --------------------- -------------------------------------------------- -------------------------------------------------- -------------------- -------------------------
+Road-150 Red, 62                                   3578.27               Road Bikes                                         Bikes                                              1                    1
+Road-150 Red, 44                                   3578.27               Road Bikes                                         Bikes                                              2                    1
+Road-150 Red, 48                                   3578.27               Road Bikes                                         Bikes                                              3                    1
+Road-150 Red, 52                                   3578.27               Road Bikes                                         Bikes                                              4                    1
+Road-150 Red, 56                                   3578.27               Road Bikes                                         Bikes                                              5                    1
+Mountain-100 Silver, 38                            3399.99               Mountain Bikes                                     Bikes                                              6                    6
+Mountain-100 Silver, 42                            3399.99               Mountain Bikes                                     Bikes                                              7                    6
+Mountain-100 Silver, 44                            3399.99               Mountain Bikes                                     Bikes                                              8                    6
+Mountain-100 Silver, 48                            3399.99               Mountain Bikes                                     Bikes                                              9                    6
+Mountain-100 Black, 38                             3374.99               Mountain Bikes                                     Bikes                                              10                   10
+Mountain-100 Black, 42                             3374.99               Mountain Bikes                                     Bikes                                              11                   10
+Mountain-100 Black, 44                             3374.99               Mountain Bikes                                     Bikes                                              12                   10
+Mountain-100 Black, 48                             3374.99               Mountain Bikes                                     Bikes                                              13                   10
+Road-250 Red, 44                                   2443.35               Road Bikes                                         Bikes                                              14                   14
+Road-250 Red, 48                                   2443.35               Road Bikes                                         Bikes                                              15                   14
+Road-250 Red, 52                                   2443.35               Road Bikes                                         Bikes                                              16                   14
+Road-250 Red, 58                                   2443.35               Road Bikes                                         Bikes                                              17                   14
+Road-250 Black, 44                                 2443.35               Road Bikes                                         Bikes                                              18                   14
+Road-250 Black, 48                                 2443.35               Road Bikes                                         Bikes                                              19                   14
+Road-250 Black, 52                                 2443.35               Road Bikes                                         Bikes                                              20                   14
+Road-250 Black, 58                                 2443.35               Road Bikes                                         Bikes                                              21                   14
+Touring-1000 Yellow, 46                            2384.07               Touring Bikes                                      Bikes                                              22                   22
+Touring-1000 Yellow, 50                            2384.07               Touring Bikes                                      Bikes                                              23                   22
+Touring-1000 Yellow, 54                            2384.07               Touring Bikes                                      Bikes                                              24                   22
+Touring-1000 Yellow, 60                            2384.07               Touring Bikes                                      Bikes                                              25                   22
+Touring-1000 Blue, 46                              2384.07               Touring Bikes                                      Bikes                                              26                   22
+Touring-1000 Blue, 50                              2384.07               Touring Bikes                                      Bikes                                              27                   22
+Touring-1000 Blue, 54                              2384.07               Touring Bikes                                      Bikes                                              28                   22
+Touring-1000 Blue, 60                              2384.07               Touring Bikes                                      Bikes                                              29                   22
+Mountain-200 Silver, 38                            2319.99               Mountain Bikes                                     Bikes                                              30                   30
+Mountain-200 Silver, 42                            2319.99               Mountain Bikes                                     Bikes                                              31                   30
+Mountain-200 Silver, 46                            2319.99               Mountain Bikes                                     Bikes                                              32                   30
+Mountain-200 Black, 38                             2294.99               Mountain Bikes                                     Bikes                                              33                   33
+Mountain-200 Black, 42                             2294.99               Mountain Bikes                                     Bikes                                              34                   33
+Mountain-200 Black, 46                             2294.99               Mountain Bikes                                     Bikes                                              35                   33
+Road-350-W Yellow, 40                              1700.99               Road Bikes                                         Bikes                                              36                   36
+Road-350-W Yellow, 42                              1700.99               Road Bikes                                         Bikes                                              37                   36
+Road-350-W Yellow, 44                              1700.99               Road Bikes                                         Bikes                                              38                   36
+Road-350-W Yellow, 48                              1700.99               Road Bikes                                         Bikes                                              39                   36
+Road-450 Red, 58                                   1457.99               Road Bikes                                         Bikes                                              40                   40
+Road-450 Red, 60                                   1457.99               Road Bikes                                         Bikes                                              41                   40
+Road-450 Red, 44                                   1457.99               Road Bikes                                         Bikes                                              42                   40
+Road-450 Red, 48                                   1457.99               Road Bikes                                         Bikes                                              43                   40
+Road-450 Red, 52                                   1457.99               Road Bikes                                         Bikes                                              44                   40
+HL Road Frame - Black, 58                          1431.50               Road Frames                                        Components                                         45                   1
+HL Road Frame - Red, 58                            1431.50               Road Frames                                        Components                                         46                   1
+HL Road Frame - Red, 62                            1431.50               Road Frames                                        Components                                         47                   1
+HL Road Frame - Red, 44                            1431.50               Road Frames                                        Components                                         48                   1
+HL Road Frame - Red, 48                            1431.50               Road Frames                                        Components                                         49                   1
+HL Road Frame - Red, 52                            1431.50               Road Frames                                        Components                                         50                   1
+HL Road Frame - Red, 56                            1431.50               Road Frames                                        Components                                         51                   1
+HL Road Frame - Black, 62                          1431.50               Road Frames                                        Components                                         52                   1
+HL Road Frame - Black, 44                          1431.50               Road Frames                                        Components                                         53                   1
+HL Road Frame - Black, 48                          1431.50               Road Frames                                        Components                                         54                   1
+HL Road Frame - Black, 52                          1431.50               Road Frames                                        Components                                         55                   1
+HL Mountain Frame - Silver, 38                     1364.50               Mountain Frames                                    Components                                         56                   12
+HL Mountain Frame - Silver, 42                     1364.50               Mountain Frames                                    Components                                         57                   12
+HL Mountain Frame - Silver, 44                     1364.50               Mountain Frames                                    Components                                         58                   12
+HL Mountain Frame - Silver, 48                     1364.50               Mountain Frames                                    Components                                         59                   12
+HL Mountain Frame - Silver, 46                     1364.50               Mountain Frames                                    Components                                         60                   12
+HL Mountain Frame - Black, 42                      1349.60               Mountain Frames                                    Components                                         61                   17
+HL Mountain Frame - Black, 44                      1349.60               Mountain Frames                                    Components                                         62                   17
+HL Mountain Frame - Black, 48                      1349.60               Mountain Frames                                    Components                                         63                   17
+HL Mountain Frame - Black, 46                      1349.60               Mountain Frames                                    Components                                         64                   17
+HL Mountain Frame - Black, 38                      1349.60               Mountain Frames                                    Components                                         65                   17
+Touring-2000 Blue, 46                              1214.85               Touring Bikes                                      Bikes                                              66                   45
+Touring-2000 Blue, 50                              1214.85               Touring Bikes                                      Bikes                                              67                   45
+Touring-2000 Blue, 54                              1214.85               Touring Bikes                                      Bikes                                              68                   45
+Touring-2000 Blue, 60                              1214.85               Touring Bikes                                      Bikes                                              69                   45
+Road-550-W Yellow, 38                              1120.49               Road Bikes                                         Bikes                                              70                   49
+Road-550-W Yellow, 40                              1120.49               Road Bikes                                         Bikes                                              71                   49
+Road-550-W Yellow, 42                              1120.49               Road Bikes                                         Bikes                                              72                   49
+Road-550-W Yellow, 44                              1120.49               Road Bikes                                         Bikes                                              73                   49
+Road-550-W Yellow, 48                              1120.49               Road Bikes                                         Bikes                                              74                   49
+Mountain-300 Black, 38                             1079.99               Mountain Bikes                                     Bikes                                              75                   54
+Mountain-300 Black, 40                             1079.99               Mountain Bikes                                     Bikes                                              76                   54
+Mountain-300 Black, 44                             1079.99               Mountain Bikes                                     Bikes                                              77                   54
+Mountain-300 Black, 48                             1079.99               Mountain Bikes                                     Bikes                                              78                   54
+HL Touring Frame - Yellow, 46                      1003.91               Touring Frames                                     Components                                         79                   22
+HL Touring Frame - Yellow, 50                      1003.91               Touring Frames                                     Components                                         80                   22
+HL Touring Frame - Yellow, 54                      1003.91               Touring Frames                                     Components                                         81                   22
+HL Touring Frame - Blue, 46                        1003.91               Touring Frames                                     Components                                         82                   22
+HL Touring Frame - Blue, 50                        1003.91               Touring Frames                                     Components                                         83                   22
+HL Touring Frame - Blue, 54                        1003.91               Touring Frames                                     Components                                         84                   22
+HL Touring Frame - Blue, 60                        1003.91               Touring Frames                                     Components                                         85                   22
+HL Touring Frame - Yellow, 60                      1003.91               Touring Frames                                     Components                                         86                   22
+Road-650 Red, 58                                   782.99                Road Bikes                                         Bikes                                              87                   58
+Road-650 Red, 60                                   782.99                Road Bikes                                         Bikes                                              88                   58
+Road-650 Red, 62                                   782.99                Road Bikes                                         Bikes                                              89                   58
+Road-650 Red, 44                                   782.99                Road Bikes                                         Bikes                                              90                   58
+Road-650 Red, 48                                   782.99                Road Bikes                                         Bikes                                              91                   58
+Road-650 Red, 52                                   782.99                Road Bikes                                         Bikes                                              92                   58
+Road-650 Black, 58                                 782.99                Road Bikes                                         Bikes                                              93                   58
+Road-650 Black, 60                                 782.99                Road Bikes                                         Bikes                                              94                   58
+Road-650 Black, 62                                 782.99                Road Bikes                                         Bikes                                              95                   58
+Road-650 Black, 44                                 782.99                Road Bikes                                         Bikes                                              96                   58
+Road-650 Black, 48                                 782.99                Road Bikes                                         Bikes                                              97                   58
+Road-650 Black, 52                                 782.99                Road Bikes                                         Bikes                                              98                   58
+Mountain-400-W Silver, 38                          769.49                Mountain Bikes                                     Bikes                                              99                   70
+Mountain-400-W Silver, 40                          769.49                Mountain Bikes                                     Bikes                                              100                  70
+Mountain-400-W Silver, 42                          769.49                Mountain Bikes                                     Bikes                                              101                  70
+Mountain-400-W Silver, 46                          769.49                Mountain Bikes                                     Bikes                                              102                  70
+Touring-3000 Blue, 44                              742.35                Touring Bikes                                      Bikes                                              103                  74
+Touring-3000 Blue, 50                              742.35                Touring Bikes                                      Bikes                                              104                  74
+Touring-3000 Blue, 54                              742.35                Touring Bikes                                      Bikes                                              105                  74
+Touring-3000 Blue, 58                              742.35                Touring Bikes                                      Bikes                                              106                  74
+Touring-3000 Blue, 62                              742.35                Touring Bikes                                      Bikes                                              107                  74
+Touring-3000 Yellow, 44                            742.35                Touring Bikes                                      Bikes                                              108                  74
+Touring-3000 Yellow, 50                            742.35                Touring Bikes                                      Bikes                                              109                  74
+Touring-3000 Yellow, 54                            742.35                Touring Bikes                                      Bikes                                              110                  74
+Touring-3000 Yellow, 58                            742.35                Touring Bikes                                      Bikes                                              111                  74
+Touring-3000 Yellow, 62                            742.35                Touring Bikes                                      Bikes                                              112                  74
+ML Road Frame - Red, 44                            594.83                Road Frames                                        Components                                         113                  30
+ML Road Frame - Red, 48                            594.83                Road Frames                                        Components                                         114                  30
+ML Road Frame - Red, 52                            594.83                Road Frames                                        Components                                         115                  30
+ML Road Frame - Red, 58                            594.83                Road Frames                                        Components                                         116                  30
+ML Road Frame - Red, 60                            594.83                Road Frames                                        Components                                         117                  30
+ML Road Frame-W - Yellow, 38                       594.83                Road Frames                                        Components                                         118                  30
+ML Road Frame-W - Yellow, 40                       594.83                Road Frames                                        Components                                         119                  30
+ML Road Frame-W - Yellow, 42                       594.83                Road Frames                                        Components                                         120                  30
+ML Road Frame-W - Yellow, 44                       594.83                Road Frames                                        Components                                         121                  30
+ML Road Frame-W - Yellow, 48                       594.83                Road Frames                                        Components                                         122                  30
+Mountain-500 Silver, 40                            564.99                Mountain Bikes                                     Bikes                                              123                  84
+Mountain-500 Silver, 42                            564.99                Mountain Bikes                                     Bikes                                              124                  84
+Mountain-500 Silver, 44                            564.99                Mountain Bikes                                     Bikes                                              125                  84
+Mountain-500 Silver, 48                            564.99                Mountain Bikes                                     Bikes                                              126                  84
+Mountain-500 Silver, 52                            564.99                Mountain Bikes                                     Bikes                                              127                  84
+Mountain-500 Black, 40                             539.99                Mountain Bikes                                     Bikes                                              128                  89
+Mountain-500 Black, 42                             539.99                Mountain Bikes                                     Bikes                                              129                  89
+Mountain-500 Black, 44                             539.99                Mountain Bikes                                     Bikes                                              130                  89
+Mountain-500 Black, 48                             539.99                Mountain Bikes                                     Bikes                                              131                  89
+Mountain-500 Black, 52                             539.99                Mountain Bikes                                     Bikes                                              132                  89
+Road-750 Black, 44                                 539.99                Road Bikes                                         Bikes                                              133                  89
+Road-750 Black, 48                                 539.99                Road Bikes                                         Bikes                                              134                  89
+Road-750 Black, 52                                 539.99                Road Bikes                                         Bikes                                              135                  89
+Road-750 Black, 58                                 539.99                Road Bikes                                         Bikes                                              136                  89
+HL Crankset                                        404.99                Cranksets                                          Components                                         137                  40
+ML Mountain Frame-W - Silver, 38                   364.09                Mountain Frames                                    Components                                         138                  41
+ML Mountain Frame-W - Silver, 40                   364.09                Mountain Frames                                    Components                                         139                  41
+ML Mountain Frame-W - Silver, 42                   364.09                Mountain Frames                                    Components                                         140                  41
+ML Mountain Frame-W - Silver, 46                   364.09                Mountain Frames                                    Components                                         141                  41
+HL Road Rear Wheel                                 357.06                Wheels                                             Components                                         142                  45
+ML Mountain Frame - Black, 40                      348.76                Mountain Frames                                    Components                                         143                  46
+ML Mountain Frame - Black, 44                      348.76                Mountain Frames                                    Components                                         144                  46
+ML Mountain Frame - Black, 48                      348.76                Mountain Frames                                    Components                                         145                  46
+ML Mountain Frame - Black, 38                      348.76                Mountain Frames                                    Components                                         146                  46
+LL Road Frame - Black, 44                          337.22                Road Frames                                        Components                                         147                  50
+LL Road Frame - Black, 48                          337.22                Road Frames                                        Components                                         148                  50
+LL Road Frame - Black, 52                          337.22                Road Frames                                        Components                                         149                  50
+LL Road Frame - Black, 58                          337.22                Road Frames                                        Components                                         150                  50
+LL Road Frame - Black, 60                          337.22                Road Frames                                        Components                                         151                  50
+LL Road Frame - Black, 62                          337.22                Road Frames                                        Components                                         152                  50
+LL Road Frame - Red, 44                            337.22                Road Frames                                        Components                                         153                  50
+LL Road Frame - Red, 48                            337.22                Road Frames                                        Components                                         154                  50
+LL Road Frame - Red, 52                            337.22                Road Frames                                        Components                                         155                  50
+LL Road Frame - Red, 58                            337.22                Road Frames                                        Components                                         156                  50
+LL Road Frame - Red, 60                            337.22                Road Frames                                        Components                                         157                  50
+LL Road Frame - Red, 62                            337.22                Road Frames                                        Components                                         158                  50
+LL Touring Frame - Yellow, 62                      333.42                Touring Frames                                     Components                                         159                  62
+LL Touring Frame - Blue, 50                        333.42                Touring Frames                                     Components                                         160                  62
+LL Touring Frame - Blue, 54                        333.42                Touring Frames                                     Components                                         161                  62
+LL Touring Frame - Blue, 58                        333.42                Touring Frames                                     Components                                         162                  62
+LL Touring Frame - Blue, 62                        333.42                Touring Frames                                     Components                                         163                  62
+LL Touring Frame - Yellow, 44                      333.42                Touring Frames                                     Components                                         164                  62
+LL Touring Frame - Yellow, 50                      333.42                Touring Frames                                     Components                                         165                  62
+LL Touring Frame - Yellow, 54                      333.42                Touring Frames                                     Components                                         166                  62
+LL Touring Frame - Yellow, 58                      333.42                Touring Frames                                     Components                                         167                  62
+LL Touring Frame - Blue, 44                        333.42                Touring Frames                                     Components                                         168                  62
+HL Road Front Wheel                                330.06                Wheels                                             Components                                         169                  72
+HL Mountain Rear Wheel                             327.215               Wheels                                             Components                                         170                  73
+HL Mountain Front Wheel                            300.215               Wheels                                             Components                                         171                  74
+ML Road Rear Wheel                                 275.385               Wheels                                             Components                                         172                  75
+LL Mountain Frame - Silver, 42                     264.05                Mountain Frames                                    Components                                         173                  76
+LL Mountain Frame - Silver, 44                     264.05                Mountain Frames                                    Components                                         174                  76
+LL Mountain Frame - Silver, 48                     264.05                Mountain Frames                                    Components                                         175                  76
+LL Mountain Frame - Silver, 52                     264.05                Mountain Frames                                    Components                                         176                  76
+LL Mountain Frame - Silver, 40                     264.05                Mountain Frames                                    Components                                         177                  76
+ML Crankset                                        256.49                Cranksets                                          Components                                         178                  81
+LL Mountain Frame - Black, 40                      249.79                Mountain Frames                                    Components                                         179                  82
+LL Mountain Frame - Black, 42                      249.79                Mountain Frames                                    Components                                         180                  82
+LL Mountain Frame - Black, 44                      249.79                Mountain Frames                                    Components                                         181                  82
+LL Mountain Frame - Black, 48                      249.79                Mountain Frames                                    Components                                         182                  82
+LL Mountain Frame - Black, 52                      249.79                Mountain Frames                                    Components                                         183                  82
+ML Road Front Wheel                                248.385               Wheels                                             Components                                         184                  87
+Touring Rear Wheel                                 245.01                Wheels                                             Components                                         185                  88
+ML Mountain Rear Wheel                             236.025               Wheels                                             Components                                         186                  89
+HL Fork                                            229.49                Forks                                              Components                                         187                  90
+Touring Front Wheel                                218.01                Wheels                                             Components                                         188                  91
+ML Mountain Front Wheel                            209.025               Wheels                                             Components                                         189                  92
+ML Fork                                            175.49                Forks                                              Components                                         190                  93
+LL Crankset                                        175.49                Cranksets                                          Components                                         191                  93
+All-Purpose Bike Stand                             159.00                Bike Stands                                        Accessories                                        192                  1
+LL Fork                                            148.22                Forks                                              Components                                         193                  95
+Touring-Panniers, Large                            125.00                Panniers                                           Accessories                                        194                  2
+HL Headset                                         124.73                Headsets                                           Components                                         195                  96
+HL Bottom Bracket                                  121.49                Bottom Brackets                                    Components                                         196                  97
+Rear Derailleur                                    121.46                Derailleurs                                        Components                                         197                  98
+HL Road Handlebars                                 120.27                Handlebars                                         Components                                         198                  99
+HL Mountain Handlebars                             120.27                Handlebars                                         Components                                         199                  99
+Hitch Rack - 4-Bike                                120.00                Bike Racks                                         Accessories                                        200                  3
+LL Road Rear Wheel                                 112.565               Wheels                                             Components                                         201                  101
+Rear Brakes                                        106.50                Brakes                                             Components                                         202                  102
+Front Brakes                                       106.50                Brakes                                             Components                                         203                  102
+ML Headset                                         102.29                Headsets                                           Components                                         204                  104
+ML Bottom Bracket                                  101.24                Bottom Brackets                                    Components                                         205                  105
+HL Touring Handlebars                              91.57                 Handlebars                                         Components                                         206                  106
+Front Derailleur                                   91.49                 Derailleurs                                        Components                                         207                  107
+Men's Bib-Shorts, S                                89.99                 Bib-Shorts                                         Clothing                                           208                  1
+Men's Bib-Shorts, M                                89.99                 Bib-Shorts                                         Clothing                                           209                  1
+Men's Bib-Shorts, L                                89.99                 Bib-Shorts                                         Clothing                                           210                  1
+LL Mountain Rear Wheel                             87.745                Wheels                                             Components                                         211                  108
+LL Road Front Wheel                                85.565                Wheels                                             Components                                         212                  109
+HL Mountain Pedal                                  80.99                 Pedals                                             Components                                         213                  110
+HL Road Pedal                                      80.99                 Pedals                                             Components                                         214                  110
+Touring Pedal                                      80.99                 Pedals                                             Components                                         215                  110
+Women's Tights, S                                  74.99                 Tights                                             Clothing                                           216                  4
+Women's Tights, M                                  74.99                 Tights                                             Clothing                                           217                  4
+Women's Tights, L                                  74.99                 Tights                                             Clothing                                           218                  4
+Women's Mountain Shorts, S                         69.99                 Shorts                                             Clothing                                           219                  7
+Women's Mountain Shorts, M                         69.99                 Shorts                                             Clothing                                           220                  7
+Women's Mountain Shorts, L                         69.99                 Shorts                                             Clothing                                           221                  7
+Classic Vest, S                                    63.50                 Vests                                              Clothing                                           222                  10
+Classic Vest, M                                    63.50                 Vests                                              Clothing                                           223                  10
+Classic Vest, L                                    63.50                 Vests                                              Clothing                                           224                  10
+ML Mountain Pedal                                  62.09                 Pedals                                             Components                                         225                  113
+ML Road Pedal                                      62.09                 Pedals                                             Components                                         226                  113
+ML Mountain Handlebars                             61.92                 Handlebars                                         Components                                         227                  115
+ML Road Handlebars                                 61.92                 Handlebars                                         Components                                         228                  115
+LL Mountain Front Wheel                            60.745                Wheels                                             Components                                         229                  117
+Men's Sports Shorts, M                             59.99                 Shorts                                             Clothing                                           230                  13
+Men's Sports Shorts, L                             59.99                 Shorts                                             Clothing                                           231                  13
+Men's Sports Shorts, XL                            59.99                 Shorts                                             Clothing                                           232                  13
+Men's Sports Shorts, S                             59.99                 Shorts                                             Clothing                                           233                  13
+Hydration Pack - 70 oz.                            54.99                 Hydration Packs                                    Accessories                                        234                  4
+Short-Sleeve Classic Jersey, S                     53.99                 Jerseys                                            Clothing                                           235                  17
+Short-Sleeve Classic Jersey, M                     53.99                 Jerseys                                            Clothing                                           236                  17
+Short-Sleeve Classic Jersey, L                     53.99                 Jerseys                                            Clothing                                           237                  17
+Short-Sleeve Classic Jersey, XL                    53.99                 Jerseys                                            Clothing                                           238                  17
+LL Bottom Bracket                                  53.99                 Bottom Brackets                                    Components                                         239                  118
+HL Touring Seat/Saddle                             52.64                 Saddles                                            Components                                         240                  119
+HL Mountain Seat/Saddle                            52.64                 Saddles                                            Components                                         241                  119
+HL Road Seat/Saddle                                52.64                 Saddles                                            Components                                         242                  119
+Long-Sleeve Logo Jersey, S                         49.99                 Jerseys                                            Clothing                                           243                  21
+Long-Sleeve Logo Jersey, M                         49.99                 Jerseys                                            Clothing                                           244                  21
+Long-Sleeve Logo Jersey, L                         49.99                 Jerseys                                            Clothing                                           245                  21
+Long-Sleeve Logo Jersey, XL                        49.99                 Jerseys                                            Clothing                                           246                  21
+LL Touring Handlebars                              46.09                 Handlebars                                         Components                                         247                  122
+Headlights - Weatherproof                          44.99                 Lights                                             Accessories                                        248                  5
+LL Road Handlebars                                 44.54                 Handlebars                                         Components                                         249                  123
+LL Mountain Handlebars                             44.54                 Handlebars                                         Components                                         250                  123
+LL Road Pedal                                      40.49                 Pedals                                             Components                                         251                  125
+LL Mountain Pedal                                  40.49                 Pedals                                             Components                                         252                  125
+ML Road Seat/Saddle                                39.14                 Saddles                                            Components                                         253                  127
+ML Touring Seat/Saddle                             39.14                 Saddles                                            Components                                         254                  127
+ML Mountain Seat/Saddle                            39.14                 Saddles                                            Components                                         255                  127
+Full-Finger Gloves, S                              37.99                 Gloves                                             Clothing                                           256                  25
+Full-Finger Gloves, M                              37.99                 Gloves                                             Clothing                                           257                  25
+Full-Finger Gloves, L                              37.99                 Gloves                                             Clothing                                           258                  25
+HL Mountain Tire                                   35.00                 Tires and Tubes                                    Accessories                                        259                  6
+Headlights - Dual-Beam                             34.99                 Lights                                             Accessories                                        260                  7
+Sport-100 Helmet, Blue                             34.99                 Helmets                                            Accessories                                        261                  7
+Sport-100 Helmet, Red                              34.99                 Helmets                                            Accessories                                        262                  7
+Sport-100 Helmet, Black                            34.99                 Helmets                                            Accessories                                        263                  7
+LL Headset                                         34.20                 Headsets                                           Components                                         264                  130
+HL Road Tire                                       32.60                 Tires and Tubes                                    Accessories                                        265                  11
+ML Mountain Tire                                   29.99                 Tires and Tubes                                    Accessories                                        266                  12
+Touring Tire                                       28.99                 Tires and Tubes                                    Accessories                                        267                  13
+LL Mountain Seat/Saddle                            27.12                 Saddles                                            Components                                         268                  131
+LL Touring Seat/Saddle                             27.12                 Saddles                                            Components                                         269                  131
+LL Road Seat/Saddle                                27.12                 Saddles                                            Components                                         270                  131
+Cable Lock                                         25.00                 Locks                                              Accessories                                        271                  14
+Mountain Pump                                      24.99                 Pumps                                              Accessories                                        272                  15
+ML Road Tire                                       24.99                 Tires and Tubes                                    Accessories                                        273                  15
+LL Mountain Tire                                   24.99                 Tires and Tubes                                    Accessories                                        274                  15
+Half-Finger Gloves, S                              24.49                 Gloves                                             Clothing                                           275                  28
+Half-Finger Gloves, M                              24.49                 Gloves                                             Clothing                                           276                  28
+Half-Finger Gloves, L                              24.49                 Gloves                                             Clothing                                           277                  28
+Fender Set - Mountain                              21.98                 Fenders                                            Accessories                                        278                  18
+LL Road Tire                                       21.49                 Tires and Tubes                                    Accessories                                        279                  19
+Chain                                              20.24                 Chains                                             Components                                         280                  134
+Minipump                                           19.99                 Pumps                                              Accessories                                        281                  20
+Taillights - Battery-Powered                       13.99                 Lights                                             Accessories                                        282                  21
+Mountain Bottle Cage                               9.99                  Bottles and Cages                                  Accessories                                        283                  22
+Mountain Bike Socks, M                             9.50                  Socks                                              Clothing                                           284                  31
+Mountain Bike Socks, L                             9.50                  Socks                                              Clothing                                           285                  31
+Road Bottle Cage                                   8.99                  Bottles and Cages                                  Accessories                                        287                  23
+AWC Logo Cap                                       8.99                  Caps                                               Clothing                                           286                  33
+Racing Socks, M                                    8.99                  Socks                                              Clothing                                           288                  33
+Racing Socks, L                                    8.99                  Socks                                              Clothing                                           289                  33
+Bike Wash - Dissolver                              7.95                  Cleaners                                           Accessories                                        290                  24
+Water Bottle - 30 oz.                              4.99                  Bottles and Cages                                  Accessories                                        291                  25
+Touring Tire Tube                                  4.99                  Tires and Tubes                                    Accessories                                        292                  25
+Mountain Tire Tube                                 4.99                  Tires and Tubes                                    Accessories                                        293                  25
+Road Tire Tube                                     3.99                  Tires and Tubes                                    Accessories                                        294                  28
+Patch Kit/8 Patches                                2.29                  Tires and Tubes                                    Accessories                                        295                  29
+
+(295 rows affected)
+
+
+Completion time: 2022-09-12T17:11:53.5517814+05:30

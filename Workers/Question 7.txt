@@ -1,0 +1,8 @@
+﻿WORKER_ID   FIRST_NAME                LAST_NAME                 SALARY      JOINING_DATE              DEPARTMENT
+----------- ------------------------- ------------------------- ----------- ------------------------- -------------------------
+8           Geetika                   Chauhan                   90000       14-04-11 09.00.00         Admin                    
+
+(1 row affected)
+
+
+Completion time: 2022-09-14T10:29:44.9470593+05:30

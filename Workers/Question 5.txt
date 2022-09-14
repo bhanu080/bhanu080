@@ -1,0 +1,10 @@
+﻿department                
+------------------------- -----------
+Account                   275000
+Admin                     1170000
+HR                        400000
+
+(3 rows affected)
+
+
+Completion time: 2022-09-14T10:28:34.9083218+05:30

@@ -1,0 +1,15 @@
+﻿WORKER_ID   FIRST_NAME                Salary
+----------- ------------------------- -----------
+1           Monika                    100000
+2           Niharika                  80000
+3           Vishal                    300000
+4           Amitabh                   500000
+5           Vivek                     500000
+6           Vipul                     200000
+7           Satish                    75000
+8           Geetika                   90000
+
+(8 rows affected)
+
+
+Completion time: 2022-09-14T10:26:49.7310444+05:30

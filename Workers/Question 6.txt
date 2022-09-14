@@ -1,0 +1,9 @@
+﻿FIRST_NAME                Salary
+------------------------- -----------
+Amitabh                   500000
+Vivek                     500000
+
+(2 rows affected)
+
+
+Completion time: 2022-09-14T10:29:24.4261875+05:30

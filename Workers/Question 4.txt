@@ -1,0 +1,10 @@
+﻿department                Number of Workers
+------------------------- -----------------
+Account                   2
+Admin                     4
+HR                        2
+
+(3 rows affected)
+
+
+Completion time: 2022-09-14T10:28:05.6440535+05:30

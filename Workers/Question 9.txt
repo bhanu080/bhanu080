@@ -1,0 +1,11 @@
+﻿Department                FIRST_NAME                Salary
+------------------------- ------------------------- -----------
+HR                        Vishal                    300000
+Admin                     Amitabh                   500000
+Admin                     Vivek                     500000
+Account                   Vipul                     200000
+
+(4 rows affected)
+
+
+Completion time: 2022-09-14T10:30:31.2069204+05:30
